@@ -1,0 +1,26 @@
+{
+    "settings": {
+        "Threads": 100,
+        "Create_Username": "n/y",
+	"Create_PFP": "n/y",
+        "Use_Proxy": "n/y",
+        "Change_Avatar": "n/y",
+        "Debug_Mode": "n/y"
+    },
+
+    "follow_ids": {
+        "Account_IDs": [""],
+        "Playlist_IDs": [""],
+        "Artist_IDs": [""]
+    },
+
+    "follow_types": {
+        "Profile": "n/y",
+        "Playlist": "n/y",
+        "Artist": "n/y"
+    },
+
+    "save_methods": {
+        "Text_File": "n/y"
+    }
+}
